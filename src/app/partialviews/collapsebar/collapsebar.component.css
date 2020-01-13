@@ -1,0 +1,22 @@
+#sidebar{
+    
+    box-shadow: 3px 5px 12px black;
+    z-index: 1;
+    height:70%;
+    background-color:rgba(228, 222, 222,.3);
+    position:absolute;
+    overflow-x:hidden;
+    transition: 1s;
+    
+}
+#cartbutton{
+    width:85px;
+    height:40px;
+    margin-top:17.5em;
+}
+.cartbutton:hover{
+    box-shadow: 2px 2px 20px green;
+}
+.glyphicon-shopping-cart{
+    font-size:15px;
+}
